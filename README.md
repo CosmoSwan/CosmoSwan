@@ -23,15 +23,6 @@ News or macro scenario in → ranked public-company impact out. API, Python SDK 
 
 ---
 
-## Also building
-
-| Project | What it is | Status |
-| --- | --- | --- |
-| [InspectFlow](https://cosmoswan.github.io/InspectFlow/) | Speak a property walkthrough → structured inspection report | Prototype |
-| [andyswan.com](https://andyswan.com) | Personal site / lab | Live |
-
----
-
 ## What I work on
 
 - Financial AI and alternative data
@@ -43,4 +34,4 @@ News or macro scenario in → ranked public-company impact out. API, Python SDK 
 
 ## Elsewhere
 
-[andyswan.com](https://andyswan.com) · [𝕏 @andyswan](https://x.com/andyswan)
+[𝕏 @andyswan](https://x.com/andyswan)
